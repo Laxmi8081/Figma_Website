@@ -5,3 +5,6 @@
  <b> In this repository uploaded complete React website folder.</b>
  <br><br>
 <b> Figma_Website review:</b> <br>
+
+https://github.com/Laxmi8081/SpiraleInfosoft_Figma_Website_React/assets/108523034/bd9f02cb-8223-43cc-a37c-7cd2c092b874
+
